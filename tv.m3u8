@@ -26,11 +26,6 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-id="BTV.sk" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="SK",BTV (480p)
 https://fs3.kabelko.sk/9011/index.m3u8?token=btv
 
-
-#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="SK",JOJ24 (720p)
-#EXTVLCOPT:http-referrer=https://media.joj.sk/
-https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
-
 #EXTINF:-1 tvg-country="SK" tvg-id="MarkizaKlasik.sk" tvg-logo="https://sledovanietv.sk/cache/logos256/markiza_klasik.png" group-title="SK",Markiza Klasik (1080p)
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 
@@ -81,3 +76,37 @@ https://n4.stv.livebox.sk/stv-tv/fe09ae603df84846978c9d960f699900/stv1.smil/play
 
 #EXTINF:0 tvg-country="SK" tvg-id="Dvojka.sk" tvg-logo="https://i.imgur.com/ft10wQn.png" group-title="SK",Dvojka STV2 (720p) [Not 24/7]
 https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CSFilm.cz",CS Film (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_film-720.m3u8
+#EXTINF:-1 tvg-id="CSHistory.cz",CS History (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+#EXTINF:-1 tvg-id="CSMystery.cz",CS Mystery (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_mystery-720.m3u8
+#EXTINF:-1 tvg-id="JOJ24.sk",JOJ24 (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
+#EXTINF:-1 tvg-id="JOJCinema.sk",JOJ Cinema (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8
+#EXTINF:-1 tvg-id="JOJFamily.sk",JOJ Family (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
+#EXTINF:-1 tvg-id="JOJPlus.sk",JOJ Plus (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8
+#EXTINF:-1 tvg-id="JOJSport.sk",JOJ Šport (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport-720.m3u8
+#EXTINF:-1 tvg-id="JOJWAU.sk",JOJ WAU (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
+#EXTINF:-1 tvg-id="Jojko.sk",Jojko (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
+#EXTINF:-1 tvg-id="TVJOJ.sk",TV JOJ (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
