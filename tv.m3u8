@@ -34,7 +34,7 @@ https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 
-#EXTINF:-1 tvg-country="SK" tvg-id="JOJCinema.sk" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="Movies",JOJ Cinema (720p)
+#EXTINF:-1 tvg-country="SK" tvg-id="JOJCinema.sk" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="SK",JOJ Cinema (720p)
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8
 
