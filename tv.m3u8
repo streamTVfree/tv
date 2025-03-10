@@ -26,29 +26,23 @@ http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 #EXTINF:-1 tvg-country="SK" tvg-id="BTV.sk" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="SK",BTV (480p)
 https://fs3.kabelko.sk/9011/index.m3u8?token=btv
 
-#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="SK",JOJ24 (720p)
-https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
+#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="News",JOJ24 (720p)
+https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8|Referer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="JOJCinema.sk" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="Movies",JOJ Cinema (720p)
+https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8|Referer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="Family",JOJ Family (720p)
+https://live.cdn.joj.sk/live/andromeda/family-720.m3u8|Referer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="Entertainment",JOJ Plus (720p)
+https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8|Referer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Sports",JOJ Šport (720p)
+https://live.cdn.joj.sk/live/andromeda/joj_sport-720.m3u8|Referer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="JOJWAU.sk" tvg-logo="https://i.imgur.com/j51uAjL.png" group-title="Entertainment",JOJ WAU (720p)
+https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8|Referer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="Kids",Jojko (720p)
+https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8|Referer=https://media.joj.sk/
 
-#EXTINF:-1 tvg-id="JOJCinema.sk" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="SK",JOJ Cinema (720p)
-https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8
-
-#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="SK",JOJ Family (720p)
-https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
-
-#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="SK",JOJ Plus (720p)
-https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8
-
-#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="SK",JOJ Šport (720p)
-https://live.cdn.joj.sk/live/andromeda/joj_sport-720.m3u8
-
-#EXTINF:-1 tvg-id="JOJWAU.sk" tvg-logo="https://i.imgur.com/j51uAjL.png" group-title="SK",JOJ WAU (720p)
-https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
-
-#EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="SK",Jojko (720p)
-https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
-
-#EXTINF:-1 tvg-id="TVJOJ.sk" tvg-logo="https://i.imgur.com/NSpxSOD.png" group-title="SK",TV JOJ (720p)
-https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cXzdnhJ.jpeg" group-title="",JOJ S VAMI (720p)
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8|Referer=https://media.joj.sk/
 
 #EXTINF:-1 tvg-country="SK" tvg-id="MarkizaKlasik.sk" tvg-logo="https://sledovanietv.sk/cache/logos256/markiza_klasik.png" group-title="SK",Markiza Klasik (1080p)
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
