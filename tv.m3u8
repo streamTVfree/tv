@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="RS" tvg-id="N1RS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="SERBIA",N1 RS
+#EXTINF:-1 tvg-country="RS" tvg-id="N1RS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="SR",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BA" tvg-id="N1BIH" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="BIH",N1 BIH
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="HR" tvg-id="N1HR" tvg-logo="http://epg.netsolutionpro.com/logo-tv/104.hr.png" group-title="CROATIA",N1 HR
+#EXTINF:-1 tvg-country="HR" tvg-id="N1HR" tvg-logo="http://epg.netsolutionpro.com/logo-tv/104.hr.png" group-title="HR",N1 HR
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&playe
 #EXTINF:-1 tvg-country="BA" tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="BIH",Al Jazeera Balkans
 https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
-
+#EXTINF:-1 tvg-country="RS" tvg-id="NOVAS" tvg-logo="https://tvprofil.com/img/kanali-logo/novaslogo.png" group-title="SR",Nova S
+http://dyndns.iptvposokuca.info:82/live?cId=234&uId=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
+#EXTINF:-1 tvg-country="HR" tvg-id="NOVA" tvg-logo="http://live.nettv.pro/icons/NOVATV.png" group-title="HR",Nova TV
+http://dyndns.iptvposokuca.info:82/live?cId=78&uId=27&deviceUser=6dP2fz690FrBk1pG&devicePass=8COeM82rcYPnpbnF
