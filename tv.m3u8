@@ -101,3 +101,6 @@ https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cXzdnhJ.jpeg" group-title="",JOJ S VAMI (720p)
 https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8|Referer=https://media.joj.sk/
+
+#EXTINF:-1,CZ: Markiza International HD
+http://lunar.pm:8080/8GRpcVvKAFVt/pQK5dLQnqAAb/123086
