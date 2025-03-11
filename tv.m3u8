@@ -141,7 +141,6 @@ https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cXzdnhJ.jpeg" group-title="SK",JOJ S VAMI (720p)
 #EXTVLCOPT:http-referrer=https://media.joj.sk/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
 
 
