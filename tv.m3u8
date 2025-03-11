@@ -136,7 +136,6 @@ https://live.cdn.joj.sk/live/andromeda/joj_sport-720.m3u8
 https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
 
 #EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="Cartoons",Jojko (720p)
-#EXTVLCOPT:http-referrer=https://media.joj.sk/
 https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cXzdnhJ.jpeg" group-title="SK",JOJ S VAMI (720p)
