@@ -15,7 +15,7 @@ https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="novas.sr" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="RS",RS - NOVA S HD
 http://teck-tv.com:80/d0:d0:03:46:ed:bc/3Y8VQ7C/74715
 
-#EXTINF:-1 tvg-id="Nova M"  tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NOVA-1.png" group-title="RS",RS - NOVA M HD
+#EXTINF:-1 tvg-id="Nova M"  tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NOVA-1.png" group-title="RS",RS - NOVA Max HD
 http://teck-tv.com:80/d0:d0:03:46:ed:bc/3Y8VQ7C/74727
 
 #EXTINF:-1 tvg-id="NOVA TV" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="HR",HR - NOVA TV HD
