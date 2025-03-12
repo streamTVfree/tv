@@ -45,6 +45,9 @@ http://teck-tv.com:80/d0:d0:03:46:ed:bc/3Y8VQ7C/74848
 #EXTINF:-1 tvg-id="Viasat History" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/VIASATHISTORY-1.png" group-title="Documentaries",VIASAT HISTORY HD 
 http://teck-tv.com:80/d0:d0:03:46:ed:bc/3Y8VQ7C/74825
 
+#EXTINF:-1 tvg-id="24Kitchen"  tvg-logo="http://go4.pw/EUROPE/EXYU/SLO/24KITCHEN.png" group-title="Documentaries",24 KITCHEN HD 
+http://teck-tv.com:80/d0:d0:03:46:ed:bc/3Y8VQ7C/74808
+
 #EXTINF:-1 tvg-id="Food Network"  tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FOODNETWORK-1.png" group-title="Documentaries", FOOD NETWORK FHD
 http://teck-tv.com:80/d0:d0:03:46:ed:bc/3Y8VQ7C/74836
 
